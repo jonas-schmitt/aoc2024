@@ -1,0 +1,105 @@
+{
+    "makefile.makefilePath": "${workspaceFolder}/Makefile",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "${workspaceFolder}/build/release/01",
+            "binaryPath": "${workspaceFolder}/build/release/01/ex1",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/01",
+            "binaryPath": "${workspaceFolder}/build/release/01/ex2",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/01",
+            "binaryPath": "${workspaceFolder}/build/release/01/ex1_cuda",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/01",
+            "binaryPath": "${workspaceFolder}/build/release/01/ex2_cuda",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/02",
+            "binaryPath": "${workspaceFolder}/build/release/02/ex1",
+            "binaryArgs": ["${workspaceFolder}/02/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/02",
+            "binaryPath": "${workspaceFolder}/build/release/02/ex2",
+            "binaryArgs": ["${workspaceFolder}/02/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/03",
+            "binaryPath": "${workspaceFolder}/build/release/03/ex1",
+            "binaryArgs": ["${workspaceFolder}/03/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/03",
+            "binaryPath": "${workspaceFolder}/build/release/03/ex2",
+            "binaryArgs": ["${workspaceFolder}/03/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/04",
+            "binaryPath": "${workspaceFolder}/build/release/04/ex1",
+            "binaryArgs": ["${workspaceFolder}/04/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/release/04",
+            "binaryPath": "${workspaceFolder}/build/release/04/ex2",
+            "binaryArgs": ["${workspaceFolder}/04/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/01",
+            "binaryPath": "${workspaceFolder}/build/debug/01/ex1",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/01",
+            "binaryPath": "${workspaceFolder}/build/debug/01/ex2",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/01",
+            "binaryPath": "${workspaceFolder}/build/debug/01/ex1_cuda",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/01",
+            "binaryPath": "${workspaceFolder}/build/debug/01/ex2_cuda",
+            "binaryArgs": ["${workspaceFolder}/01/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/02",
+            "binaryPath": "${workspaceFolder}/build/debug/02/ex1",
+            "binaryArgs": ["${workspaceFolder}/02/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/02",
+            "binaryPath": "${workspaceFolder}/build/debug/02/ex2",
+            "binaryArgs": ["${workspaceFolder}/02/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/03",
+            "binaryPath": "${workspaceFolder}/build/debug/03/ex1",
+            "binaryArgs": ["${workspaceFolder}/03/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/03",
+            "binaryPath": "${workspaceFolder}/build/debug/03/ex2",
+            "binaryArgs": ["${workspaceFolder}/03/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/04",
+            "binaryPath": "${workspaceFolder}/build/debug/04/ex1",
+            "binaryArgs": ["${workspaceFolder}/04/input"]
+        },
+        {
+            "cwd": "${workspaceFolder}/build/debug/04",
+            "binaryPath": "${workspaceFolder}/build/debug/04/ex2",
+            "binaryArgs": ["${workspaceFolder}/04/input"]
+        }
+    ]
+}
